@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="rota.road" tvg-chno="1" tvg-logo="https://kaan2635.github.io/rotatv-demo/logos/road.png" group-title="Seyahat",Rota Yol
+https://kaan2635.github.io/rotatv-demo/live/road/index.m3u8
+#EXTINF:-1 tvg-id="rota.nature" tvg-chno="2" tvg-logo="https://kaan2635.github.io/rotatv-demo/logos/nature.png" group-title="Doğa",Rota Doğa
+https://kaan2635.github.io/rotatv-demo/live/nature/index.m3u8
+#EXTINF:-1 tvg-id="rota.ocean" tvg-chno="3" tvg-logo="https://kaan2635.github.io/rotatv-demo/logos/ocean.png" group-title="Doğa",Rota Okyanus
+https://kaan2635.github.io/rotatv-demo/live/ocean/index.m3u8
+#EXTINF:-1 tvg-id="rota.city" tvg-chno="4" tvg-logo="https://kaan2635.github.io/rotatv-demo/logos/city.png" group-title="Şehir",Rota Şehir
+https://kaan2635.github.io/rotatv-demo/live/city.ts
+#EXTINF:-1 tvg-id="rota.space" tvg-chno="5" tvg-logo="https://kaan2635.github.io/rotatv-demo/logos/space.png" group-title="Bilim",Rota Uzay
+https://kaan2635.github.io/rotatv-demo/live/space/index.m3u8
+#EXTINF:-1 tvg-id="rota.desert" tvg-chno="6" tvg-logo="https://kaan2635.github.io/rotatv-demo/logos/desert.png" group-title="Seyahat",Rota Çöl
+https://kaan2635.github.io/rotatv-demo/live/desert/index.m3u8
+#EXTINF:-1 tvg-id="rota.lounge" tvg-chno="7" radio="true" tvg-logo="https://kaan2635.github.io/rotatv-demo/logos/lounge.png" group-title="Radyo",Rota Lounge FM
+https://kaan2635.github.io/rotatv-demo/radio/lounge.mp3
+#EXTINF:-1 tvg-logo="https://kaan2635.github.io/rotatv-demo/posters/sunset-drive-tr.jpg" group-title="Rota Sinema",Gün Batımı Yolu (2026)
+https://kaan2635.github.io/rotatv-demo/movie/sunset-drive.mp4
+#EXTINF:-1 tvg-logo="https://kaan2635.github.io/rotatv-demo/posters/blue-hour-tr.jpg" group-title="Rota Sinema",Mavi Saat (2026)
+https://kaan2635.github.io/rotatv-demo/movie/blue-hour.mp4
+#EXTINF:-1 tvg-logo="https://kaan2635.github.io/rotatv-demo/posters/city-after-dark-tr.jpg" group-title="Rota Sinema",Gece Şehri (2026)
+https://kaan2635.github.io/rotatv-demo/movie/city-after-dark.mp4
+#EXTINF:-1 tvg-logo="https://kaan2635.github.io/rotatv-demo/posters/road-stories-tr.jpg" group-title="Rota Dizi",Yol Hikâyeleri S01E01
+https://kaan2635.github.io/rotatv-demo/series/road-stories-s01e01.mp4
+#EXTINF:-1 tvg-logo="https://kaan2635.github.io/rotatv-demo/posters/road-stories-tr.jpg" group-title="Rota Dizi",Yol Hikâyeleri S01E02
+https://kaan2635.github.io/rotatv-demo/series/road-stories-s01e02.mp4
